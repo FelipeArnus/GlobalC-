@@ -89,22 +89,14 @@ Sistema inovador que detecta se o programa foi fechado incorretamente:
 
 ## 🚀 Como Usar
 
-1. **Compilar o Projeto**
-   ```bash
-   dotnet build
-   ```
+1. **Executar o Sistema**
 
-2. **Executar o Sistema**
-   ```bash
-   dotnet run
-   ```
-
-3. **Fazer Login**
+2. **Fazer Login**
    - Digite um dos usuários da tabela acima
    - Digite a senha correspondente
    - O sistema confirma o login e abre o menu principal
 
-4. **Usar o Menu Principal**
+3. **Usar o Menu Principal**
    - **Opção 1**: Logout (volta para tela de login)
    - **Opção 2**: Verificar Status do Sistema
    - **Opção 3**: Gerar Relatório de Segurança
