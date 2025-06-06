@@ -1,0 +1,3 @@
+Usuário: Felipe, Data: 6/4/2025 11:42:46 PM, Erro: Falha simulada no sistema.
+Usuário: Felipe, Data: 6/5/2025 12:05:55 AM, Erro: Falha provocada pelo usuário.
+Usuário: Felipe, Data: 6/5/2025 12:13:49 AM, Erro: Falha provocada pelo usuário.
