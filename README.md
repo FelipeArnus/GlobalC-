@@ -124,3 +124,10 @@ O sistema cria automaticamente os seguintes arquivos na área de trabalho:
 - **Detecção de Anomalias**: Sistema detecta fechamentos incorretos
 - **Auditoria Completa**: Todos os eventos são logados com timestamp
 - **Múltiplos Níveis de Usuário**: Diferentes papéis para controle de acesso
+- 
+
+## Video
+
+- https://www.youtube.com/watch?v=FGO7lWhp5X0
+
+
